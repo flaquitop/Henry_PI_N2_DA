@@ -1,6 +1,6 @@
 # <h1 align=center> Proyecto de Data Analyst sobre Análisis de Siniestros Viales en la Ciudad de Buenos Aires 2016-2021
 
-![alt text](./img/siniestro-viales-3.jpg)
+![alt text](./Img/siniestro-viales-3.jpg)
 
 # <h1 align=center> **PROYECTO INDIVIDUAL Nº2 - DATA ANALITS** </h1>
 
