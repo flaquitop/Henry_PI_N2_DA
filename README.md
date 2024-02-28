@@ -67,7 +67,7 @@ Se propone reducir en un 7% la cantidad de accidentes mortales de motociclistas 
 
 ## Recomendaciones al Gobierno de la Ciudad:
 
-![alt text](./img/peaton_descuidado.jpg)
+![alt text](./Img/peaton_descuidado.jpg)
 
 Algunas propuestas para mejorar el tránsito y la Seguridad Vial, son simples, sencillas, realizables en forma inmediata la mayoría de ellas, con efectos de muy rapido impacto en la sociedad y de probada eficacia internacional:
 
